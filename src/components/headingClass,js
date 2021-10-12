@@ -1,0 +1,15 @@
+/*import React, { Component } from 'react';
+class HeadingClass extends React.Component{
+    render(){
+        return(
+      
+            <div>
+              <h1 className={headingClass}>Wecome to React</h1>
+              <p>React is very interesting.You will love it.</p>
+              <button>Click Me</button>
+              <h2>Hope you are understanding React very well</h2>
+              </div>
+          );
+    }
+}
+export default HeadingClass;*/
